@@ -5,9 +5,9 @@ title: 吳健雄
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# Full name 
+first_name: Алмаз
+last_name: Зиязетдинов
 
 # Status emoji
 status:
@@ -17,34 +17,26 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент-киберспортсмен
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: РУДН
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Живем один раз
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Вкусно поесть
+  - Сходить в зал
+  - Програмирование
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - бакалавриат , НПИбд-01-22 РУДН 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +112,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Я посвятил много времени изучению различных языков программирования и разработке своих собственных проектов. Мое увлечение фитнесом началось после того, как я осознал, что долгие часы, проведенные за компьютером, требуют баланса и активности. Я полюбил занятия в спортзале и стал регулярно посещать тренировки, стремясь к здоровому образу жизни.
+
+Помимо этого, Я обожаю играть в видеоигры. Я вижу в этом не только развлечение, но и возможность изучения новых технологий и дизайна игр. Моя любовь к играм также вдохновляет  на создание собственных проектов в этой области.
+
+Благодаря своему увлечению программированием, заботой о здоровье и страстью к играм, Я нашел баланс между технической творческой работой, физической активностью и развлечениями, что помогает мне сохранять гармонию и равновесие в своей жизни.
 {style="text-align: justify;"}
